@@ -102,7 +102,7 @@ void Stack::print() {
 
 }
 
-int main(int argc, const char** argv) { // 1TBS
+int mains(int argc, const char** argv) { // 1TBS
     Power p;
     std::cout << p.calculate() << std::endl;
     p.setValues(2, 10);

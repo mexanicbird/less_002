@@ -3,4 +3,4 @@ project(less_002)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(less_002 main.cpp)
+add_executable(less_002 main.cpp old.cpp)
